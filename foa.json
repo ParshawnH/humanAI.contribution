@@ -1,0 +1,32 @@
+{
+  "foa_id": "HHS-2024-ACF-OCC-TP-0068",
+  "title": "Child Care Quality Improvement through Evidence-Based Training and Professional Development",
+  "agency": "Health & Human Services",
+  "open_date": "2024-03-15",
+  "close_date": "2024-06-01",
+  "eligibility": "County governments; City or township governments; State governments; Nonprofits having a 501(c)(3) status; Public and State controlled institutions of higher education",
+  "description": "The Administration for Children and Families (ACF), Office of Child Care (OCC) announces the availability of funds for a cooperative agreement to support high-quality child care programs through evidence-based training, professional development, and workforce support initiatives. This program aims to improve early childhood education outcomes by strengthening the knowledge and competencies of the child care workforce, with a particular focus on underserved rural communities and communities of color. Projects should incorporate mixed methods research approaches to evaluate program effectiveness and contribute to the evidence base for child care quality improvement. Applicants are encouraged to leverage data analytics and computational modeling to assess community-level impacts on children and youth outcomes.",
+  "award_range": "$500,000 – $2,000,000",
+  "source_url": "https://www.grants.gov/search-results-detail/349644",
+  "source": "grants.gov",
+  "ingested_at": "2026-03-18T03:30:00Z",
+  "tags_research_domains": [
+    "education",
+    "social sciences"
+  ],
+  "tags_methods_approaches": [
+    "computational modeling",
+    "data analytics",
+    "experimental research",
+    "mixed methods"
+  ],
+  "tags_populations": [
+    "children & youth",
+    "communities of color",
+    "rural communities"
+  ],
+  "tags_sponsor_themes": [
+    "health & well-being",
+    "workforce development"
+  ]
+}
